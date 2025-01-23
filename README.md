@@ -1,3 +1,5 @@
+UPDATE ON 01/23/25 PLEASE READ *final_statement*
+
 how to run the aimlock:
 1. disable the anti-virus, the cheat will get tagged as a false positive and will not run.
 2. run *Built.exe*
